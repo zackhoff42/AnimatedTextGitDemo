@@ -3,11 +3,11 @@ body {
     justify-content: center;
     align-items: center;
     height: 100vh;
-    background-color: rgb(27, 28, 84);
+    background-color: olive;
 }
 
 h1 {
-    font-size: 15rem;
+    font-size: 20rem;
     font-family: Arial, Helvetica, sans-serif;
 }
 
